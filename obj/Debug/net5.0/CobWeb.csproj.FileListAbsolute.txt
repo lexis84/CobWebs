@@ -1,0 +1,16 @@
+I:\VisualStudioProjects\CobWeb\CobWeb\obj\Debug\net5.0\CobWeb.csprojAssemblyReference.cache
+I:\VisualStudioProjects\CobWeb\CobWeb\obj\Debug\net5.0\CobWeb.GeneratedMSBuildEditorConfig.editorconfig
+I:\VisualStudioProjects\CobWeb\CobWeb\obj\Debug\net5.0\CobWeb.AssemblyInfoInputs.cache
+I:\VisualStudioProjects\CobWeb\CobWeb\obj\Debug\net5.0\CobWeb.AssemblyInfo.cs
+I:\VisualStudioProjects\CobWeb\CobWeb\obj\Debug\net5.0\CobWeb.csproj.CoreCompileInputs.cache
+I:\VisualStudioProjects\CobWeb\CobWeb\bin\Debug\net5.0\CobWeb.exe
+I:\VisualStudioProjects\CobWeb\CobWeb\bin\Debug\net5.0\CobWeb.deps.json
+I:\VisualStudioProjects\CobWeb\CobWeb\bin\Debug\net5.0\CobWeb.runtimeconfig.json
+I:\VisualStudioProjects\CobWeb\CobWeb\bin\Debug\net5.0\CobWeb.runtimeconfig.dev.json
+I:\VisualStudioProjects\CobWeb\CobWeb\bin\Debug\net5.0\CobWeb.dll
+I:\VisualStudioProjects\CobWeb\CobWeb\bin\Debug\net5.0\ref\CobWeb.dll
+I:\VisualStudioProjects\CobWeb\CobWeb\bin\Debug\net5.0\CobWeb.pdb
+I:\VisualStudioProjects\CobWeb\CobWeb\obj\Debug\net5.0\CobWeb.dll
+I:\VisualStudioProjects\CobWeb\CobWeb\obj\Debug\net5.0\ref\CobWeb.dll
+I:\VisualStudioProjects\CobWeb\CobWeb\obj\Debug\net5.0\CobWeb.pdb
+I:\VisualStudioProjects\CobWeb\CobWeb\obj\Debug\net5.0\CobWeb.genruntimeconfig.cache
